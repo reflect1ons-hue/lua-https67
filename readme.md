@@ -1,4 +1,4 @@
-# lua-https
+# lua-https 
 
 lua-https is a simple Lua HTTPS module using native platform backends
 specifically written for [LÖVE](https://love2d.org) 12.0 and supports
